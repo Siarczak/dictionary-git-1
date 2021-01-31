@@ -28,3 +28,9 @@ Tworzy nowy branch
 
 ### git branch -d develop
 Usuwa gałąź o nazwie develop 
+
+### git branch udemy
+Nowa gałąź udemy
+
+### $ git commit -m "Masz super strumyki na Youtubie więc kupiłem Twój kurs git na Udemy"
+Lubię Twoje streamy
